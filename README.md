@@ -48,14 +48,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 ```powershell
 jupyter notebook Analysis.ipynb
 ```
-
-Quick tips
-- Inspect `Untitled-1.py` before running; it may contain experimental code.
-- If you want reproducible environments, create `requirements.txt` or `environment.yml` and I can add it.
-- The `Twitter/` folder appears to be a Node project; run `npm install` inside that folder to set it up.
-
-Acknowledgements & next steps
-- This README was generated from the notebook and the dataset. If you want, I can add:
-  - a `requirements.txt` file,
-  - a small sample output image or results summary,
-  - or a cleaned `data/` folder with a preprocessed CSV.
