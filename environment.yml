@@ -1,0 +1,24 @@
+name: blackfriday-analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - statsmodels
+  - openpyxl
+  - pip
+  - pip:
+    - scikit-plot
+    - yellowbrick
+    - notebook-extensions
+    - tqdm
+    - matplotlib-venn
